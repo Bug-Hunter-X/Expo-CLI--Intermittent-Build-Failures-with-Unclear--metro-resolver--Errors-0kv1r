@@ -1,0 +1,1 @@
+While building an Expo project, I encountered an error related to the `metro-resolver` module. The error message was vague, indicating a problem with resolving modules, but not specifying the exact cause.  I had checked my package.json and ensured all dependencies were correctly installed and no conflicting versions existed. The build process would fail intermittently.
